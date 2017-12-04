@@ -1,0 +1,37 @@
+/*
+Custom style for thaiunitarians.org
+based on Humanity theme
+Theme URI:http://themewagon.com
+Author:Themewagon
+Author URI:http:themewagon.com/
+*/
+
+.language-switcher button{
+	padding: 5px;
+	background-color: rgba(255, 255, 255, 0.5);
+	position: fixed;
+	top: 20px;
+	right: 40px;
+	z-index: 400;
+}
+
+body{
+	background: rgba(255,255,255,1);
+}
+
+.logo{
+	position: relative;
+	top:-120px;
+}
+
+.nav{
+	max-height: 150px;
+}
+
+.carousel-control{
+	top: 50%;
+}
+
+.white p{
+	color: white;
+}
