@@ -36,6 +36,11 @@ body{
 	color: white;
 }
 
+.white a{
+	color: white;
+	text-decoration: underline;
+}
+
 .posts-head{
 	margin-bottom: 30px;
 }
@@ -46,4 +51,35 @@ body{
 
 .posts-body img{
 	max-width: 100%;
+}
+
+.social-share a{
+	color: white;
+}
+
+.footer-menus a{
+	color: white;
+}
+
+.header-text{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.poster{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	max-width: 980px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.poster-image{
+	width: 100%;
+	max-width: 980px;
+}
+
+.saparator{
+	height: 50px;
 }
